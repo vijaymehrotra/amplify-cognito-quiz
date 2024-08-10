@@ -78,6 +78,7 @@ Enhance the user experience by adding features like time limits, difficulty leve
 
 Implement error handling and user feedback mechanisms for a robust application.
 
+https://github.com/user-attachments/assets/e6e21e58-fbfa-4568-980c-d8a799798dc3
 
 ## Contributing
 

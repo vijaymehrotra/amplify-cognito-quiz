@@ -4,6 +4,8 @@
 
 This is a simple quiz application built using React for the frontend and deployed on AWS Amplify. User authentication and authorization are handled by Amazon Cognito.
 
+![Screenshot from 2024-08-09 19-30-22](https://github.com/user-attachments/assets/e1ee48c7-f25d-45bd-93e6-4f571bc30e80)
+
 ## Features
 
 User authentication and authorization using Amazon Cognito
@@ -55,10 +57,14 @@ npm start
 ```
 
 ## Deploy to AWS Amplify:
+![Screenshot from 2024-08-09 19-25-49](https://github.com/user-attachments/assets/dd9d86f3-56a8-45a7-93cf-21d5b2d3fdd9)
+
 
 Follow the AWS Amplify documentation to deploy your application.
 
 ## Project Structure
+![Screenshot from 2024-08-09 23-32-35](https://github.com/user-attachments/assets/567be1ef-fdc1-481b-aa6e-7820c0260279)
+
 
 src: Contains the React components, styles, and other project files.
 
